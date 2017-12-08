@@ -39,7 +39,7 @@ permalink: /resume/
 <li> National Scholarship, 2017. </li>
 <br/>
 <li> The First Prize Scholarship, Wuhan University, 2017. </li>
-</br>
+<br/>
 <li> Outstanding Postgraduate Student, Wuhan University, 2017. </li>
 </ul>
 
