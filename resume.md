@@ -5,8 +5,7 @@ permalink: /resume/
 ---
 
 <h3><b>Wenjun Huang(黄文军)</b></h3> E-mail: 2011huang@whu.edu.cn
-
-<hr noshade/>
+Wuhan University, Wuhan, Hubei Prov., China, 430072.
 
 
 <h3><strong> Education Background</strong> </h3>
