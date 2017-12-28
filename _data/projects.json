@@ -10,7 +10,7 @@
 	{
 		"name": "基于监控视频的人脸跟踪系统",
 		"image": "face.jpg",
-		"url": "/static/projects/retrieval",
+		"url": "/retrieval/",
 		"date": "2016.10",
 		"tags": ["Face Detection"]	
 	},
