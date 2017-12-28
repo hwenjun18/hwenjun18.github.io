@@ -1,7 +1,7 @@
 [
 	{
 		"name": "基于复杂场景的行人精确检索",
-		"image": "retriveal.jpg",
+		"image": "retriveal.JPG",
 		"url":  "https://github.com/hubery94/hubery94.github.io",
 		"date": "2017.07",
 		"tags": ["Deep Learning","Retrieval"]
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "基于视频的复杂场景下的目标跟踪及轨迹管理系统",
-		"image": "track.jpg",
+		"image": "track.JPG",
 		"url": "/static/projects/retrieval/",
 		"date": "2015.12",
 		"tags": ["Pattern Recognition","Tracking"]
