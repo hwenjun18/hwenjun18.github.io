@@ -1,30 +1,32 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "基于复杂场景的行人精确检索",
+		"image": "retriveal.jpg",
+		"url":  "https://github.com/hubery94/hubery94.github.io",
+		"date": "2017.07",
+		"tags": ["Deep Learning","Retrieval"]
+	},
+	
+	{
+		"name": "基于监控视频的人脸跟踪系统",
+		"image": "face.jpg",
+		"url": "/static/projects/retrieval/",
+		"date": "2016.10",
+		"tags": ["Face Detection"]	
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"name": "ImageNet大规模图像识别挑战赛",
+		"image": "detect.jpg",
+		"url": "/static/projects/retrieval/",
+		"date": "2016.06",
+		"tags": ["Detection","Deep Learning"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"name": "基于视频的复杂场景下的目标跟踪及轨迹管理系统",
+		"image": "track.jpg",
+		"url": "/static/projects/retrieval/",
+		"date": "2015.12",
+		"tags": ["Pattern Recognition","Tracking"]
 	}
-
+	
 ]

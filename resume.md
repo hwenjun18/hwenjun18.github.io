@@ -62,7 +62,7 @@ Wuhan University, Wuhan, Hubei Prov., China, 430072.
 	<tr>   
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
-	<th> Silver Medal</th>
+	<th> Second Prize</th>
 	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
 	</tr>
 	</table>
